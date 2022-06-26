@@ -1,4 +1,4 @@
-module sap-api-integrations-sales-order-reads
+module sap-api-integrations-project-reads
 
 go 1.17
 
@@ -7,4 +7,4 @@ require (
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
 )
 
-require github.com/latonaio/sap-api-time-value-converter v1.0.0 // indirect
+require github.com/latonaio/sap-api-time-value-converter v1.0.0 // indirect  
